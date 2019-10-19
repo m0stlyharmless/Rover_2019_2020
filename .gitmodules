@@ -1,0 +1,3 @@
+[submodule "software/firmware/libraries/GxEPD"]
+	path = software/firmware/libraries/GxEPD
+	url = https://github.com/ZinggJM/GxEPD.git
